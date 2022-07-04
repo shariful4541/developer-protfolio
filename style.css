@@ -1,27 +1,28 @@
-body{
+body {
     font-family: 'Poppins', sans-serif;
 }
 
-h1{
+h1 {
     font-size: 50px;
 }
-.aout{
+
+.aout {
     color: orange;
 }
 
-section{
+section {
     display: flex;
 }
 
-.half-width{
+.half-width {
     width: 50%;
 }
 
-div img{
+div img {
     width: 80%;
 }
 
-.link-tton{
+.link-tton {
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
     padding: 10px 30px;

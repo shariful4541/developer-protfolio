@@ -57,6 +57,8 @@ div img {
 
 .experiance {
     padding: 80px;
+    background-image: url(./images/exp-bg.png);
+    background-repeat: no-repeat;
 }
 
 .half-width h3 {
